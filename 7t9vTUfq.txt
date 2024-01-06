@@ -1,0 +1,894 @@
+#EXTM3U
+
+#EXTINF:-1,MINGALARPER
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1,KTS_LIVE SPORT
+http://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001704295084-0-0-0fb2acef5593352dde8853e81e98b07f
+
+#EXTINF:-1,MK_LIVE SPORT 1
+http://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001704295139-0-0-dbf33df07820a908e45b154816e69948
+
+#EXTINF:-1,MK_LIVE SPORT 2
+http://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+
+#EXTINF:-1,MK_LIVE SPORT 3
+http://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001704295232-0-0-8683612ec8871c0ce02c65fb01abe2bd
+
+#EXTINF:-1,MK_LIVE SPORT 4
+http://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001704295174-0-0-a65dd8fe52d38999867157baa8308789
+
+
+
+
+#EXTINF:-1,KTS_Liga Live Sport1
+http://live6.xiangmirong.com/live/33982309.m3u8?auth_key=1704057901-0-243943-66485cf9a563d1b6ef6803a05697388d
+
+#EXTINF:-1,MK_Liga Live Sport2
+http://live6.xiangmirong.com/live/68848594.m3u8?auth_key=1704068701-0-243936-07038191ce7ae4eaf55529ecc6f48919
+
+#EXTINF:-1,MK_Liga Live Sport3
+http://live6.xiangmirong.com/live/82054853.m3u8?auth_key=1704043501-0-248807-0f16f3bb5c4d42ff2df7a4274b2fc2a5
+
+#EXTINF:-1,MK_Liga Live Sport4
+http://live6.xiangmirong.com/live/95826384.m3u8?auth_key=1704057902-0-247840-e48cc7e476679b2e2424bca191e4d466
+
+#EXTINF:-1,MK_Premier Ship Live Sport5
+http://8ttbd.com/sport_test_live_test/sport_test_live_test_7735417.m3u8?fast=xsewqd
+
+#EXTINF:-1,MK_Premier League Live Sport5
+http://8ttbd.com/sport_test_live_test/sport_test_live_test_7740170.m3u8?fast=xsewqd
+
+
+#EXTINF:-1,LALIGA Live Sport
+https://dazc.mrgamingstreams.xyz/dazcbarca.m3u8
+
+
+#EXTINF:-1,PSG Live Sport
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1,OPTUS Sport 2Live
+https://soccer.freesportstime.com/live/stream_1.m3u8
+
+#EXTINF:-1,OPTUS Sport 2Live SD
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1,Sony Ten 1
+http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
+
+
+#EXTINF:-1,Sony Ten 2
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+
+
+#EXTINF:-1,Sony Ten 3
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+
+
+#EXTINF:-1,Sony Ten 5 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+
+#EXTINF:-1,Star Sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1,Star Sports 1 HD Tamil
+https://aha--medek27259.repl.co/tamil/master.m3u8
+
+#EXTINF:-1,Star Sports 1 HD Telugu
+https://aha--medek27259.repl.co/telugu/master.m3u8
+
+#EXTINF:-1,Star Sports 2
+http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
+
+#EXTINF:-1,SuperSport Blitz
+http://supersonictv.live:8080/419094/970686/86873
+
+#EXTINF:-1,SuperSport Cricket
+http://supersonictv.live:8080/419094/970686/86872
+
+#EXTINF:-1,SuperSport Football
+http://supersonictv.live:8080/419094/970686/86869
+
+#EXTINF:-1,SuperSport Grandstand
+http://supersonictv.live:8080/419094/970686/86864
+
+#EXTINF:-1,SuperSport LaLiga
+http://supersonictv.live:8080/419094/970686/86861
+
+#EXTINF:-1,SuperSport Máximo 1	http://supersonictv.live:8080/419094/970686/86874
+
+#EXTINF:-1,SuperSport Premier League	http://supersonictv.live:8080/419094/970686/86880
+
+#EXTINF:-1,SuperSport Premier League	http://supersonictv.live:8080/419094/970686/86881
+
+#EXTINF:-1,SuperSport Premier League	http://supersonictv.live:8080/419094/970686/86882
+
+#EXTINF:-1,SuperSport Premier League	http://supersonictv.live:8080/419094/970686/86883
+
+#EXTINF:-1,SuperSport Premier League	http://supersonictv.live:8080/419094/970686/86863
+
+#EXTINF:-1,SuperSport PSL	http://supersonictv.live:8080/419094/970686/86862
+
+#EXTINF:-1,SuperSport Variety 1	http://supersonictv.live:8080/419094/970686/86865
+
+#EXTINF:-1,SuperSport Variety 2	http://supersonictv.live:8080/419094/970686/86866
+
+#EXTINF:-1,SuperSport Variety 3	http://supersonictv.live:8080/419094/970686/86867
+
+#EXTINF:-1,SuperSport Variety 4	http://supersonictv.live:8080/419094/970686/86868
+
+#EXTINF:-1,SuperSport WWE	http://supersonictv.live:8080/419094/970686/86878
+
+#EXTINF:-1,T Sports HD	http://113.212.111.246:8080/hls/col12.m3u8
+
+#EXTINF:-1,Ten Sports HD	http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
+
+#EXTINF:-1,TNT Sports 1	https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+
+#EXTINF:-1,TNT Sports 2	https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+
+#EXTINF:-1,TNT Sports 3	https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+
+#EXTINF:-1,TNT Sports 4	https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+
+#EXTINF:-1,TNT Sports 4	http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+
+#EXTINF:-1,TVRI Sport [Indonesia]	http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
+
+#EXTINF:-1,Viaplay Sports 1	https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1,Viaplay Sports 2	https://hls.streambtw.com/live/stream_5.m3u8
+
+#EXTINF:-1,W-Sport [Indonesia]	http://210.210.155.35:80/uq2663/h/h26/S4/mnf.m3u8
+
+#EXTINF:-1,W-Sport [Malaysia]	http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
+
+#EXTINF:-1,WWE [Malaysia]	http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1698
+
+#EXTINF:-1,##SPORT CHANNEL##
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5EBACly2TXJe5wZ2nlAbGY/ts
+
+
+#EXTINF:-1,CCTV-5+
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxNlHyNRCdxf_p1uVGytfyY/ts
+
+#EXTINF:-1,EPL 5 SD
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyzmyjRF1CjKogXOsYOlAG4/ts
+
+#EXTINF:-1,TPF 1 Live
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6vODet0UhCkcq4RTCw19J8/ts
+
+#EXTINF:-1,TPF 2 Live
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9aWiGAqlnjg62yFgsUNQ9s/ts
+
+#EXTINF:-1,VSport Football
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9hsL3a4mlylxboch0nOGhY/ts
+
+#EXTINF:-1,V Sport 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6ZzfTetSU2_rx5zDZDhVzA/ts
+
+#EXTINF:-1,V Sport 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2vzwb9JwtkqhNk-hWNjP5E/ts
+
+#EXTINF:-1,Beinsport 1 Thailand
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
+
+#EXTINF:-1,Beinsport 2 Thailand
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts
+
+#EXTINF:-1,Beinsport 3 Malay
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_Yrk7IjRqVnJqzGBt8aTVM/ts
+
+#EXTINF:-1,bein SPORT3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_ku6UgVrwhJT5_iMOTK404/ts
+
+#EXTINF:-1,Orange Sport 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-ouiKm7SGSarfLqLrbN-wM/ts
+
+#EXTINF:-1,Orange Sport 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzcasgoAh0h4VhGrIIN5Y8I/ts
+
+#EXTINF:-1,Tyc sports
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1,FoxSport
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1,FoxSport 2
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1,Fox Sports 3 
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1,TNT sports 
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+#EXTINF:-1,Play sports 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3kFWcXJMnJL8jNJaJSQam0/ts
+
+#EXTINF:-1,Play Sports 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl4Zz6iH0ZhEjSD_HVIZ0gD8/ts
+
+#EXTINF:-1,Play Sports 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_vyENtwElmrR-k3yCB2cNM/ts
+
+#EXTINF:-1,Arenasport 3 Premium
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0HPWIeGlyCBPghGnM0wUR8/ts
+
+#EXTINF:-1,Laliga 1 HD
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl29kPw4re7KvaR6NmSpX9HE/ts
+
+#EXTINF:-1,Laliga 2 HD
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_kHCtIFZz8udPXmAyAEejQ/ts
+
+#EXTINF:-1,ELEVEN 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/ts
+
+#EXTINF:-1,ELEVEN 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/ts
+
+#EXTINF:-1,ELEVEN 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
+
+#EXTINF:-1,ELEVEN 5
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
+
+#EXTINF:-1,Supersport Football HD
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxOs91Cs9nq65aUsUloUdVs/ts
+
+#EXTINF:-1,NBC GOLF
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxiSQcA5a1l2Y_cf9YX_9bA/ts
+
+#EXTINF:-1,One Golf
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8b3t5VZXyc97pJ5_GtC8XU/ts
+
+#EXTINF:-1,V Golf
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl--maCWjGjdajPN_M0PK68w/ts
+
+#EXTINF:-1,SSC Sport (Saudi League)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3geb_0XzGc1tzRqR4_p0Q4/ts
+
+#EXTINF:-1,SSC Sport 4
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzOtVtP8SO3-z_rTE9Fea2I/ts
+
+#EXTINF:-1,MUTV Sport
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+#EXTINF:-1,Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,EDGE SPORTS
+http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1,FOX WWW SPORTS
+http://208.86.19.13:81/103.stream/index.m3u8
+
+#EXTINF:-1,Red-Bull-TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,Red Bull TV Sports SD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1,PTV sports Live
+http://175.107.244.52:4457/play/a08g/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+
+#EXTINF:-1,Star Sports 1HD
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1,Star sports 1SD
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1,TNT Sports 4 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1,TVRI Sport
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1,BEK Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1,EDGEsport
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1,W14DK-D5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
+#EXTINF:-1,Sports",Start
+https://strm.yandex.ru/kal/start/start0.m3u8
+
+#EXTINF:-1,WAPA-DT2
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+
+#EXTINF:-1,Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1,SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF:-1,TVS Women Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1,LIVE 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1,LIVE 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1,LIVE 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
+
+#EXTINF:-1,CCTV 5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1,MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1,Sport 18
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1,Jio 1 LaLiga
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1,Jio 1 Serie A
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1,Jio 3 Serie A
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,***INDIA MOVIE***
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+
+#EXTINF:-1,&tv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+
+#EXTINF:-1,&picture 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
+#EXTINF:-1,Zee Kannada 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+
+#EXTINF:-1,Zee bangla sd
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+
+#EXTINF:-1,Zee bangla hd
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+
+#EXTINF:-1,Zee cinema BANGLA 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+
+#EXTINF:-1,Zee Marathi 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+
+#EXTINF:-1,Zee anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+
+#EXTINF:-1,Zee cinemalu 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+
+#EXTINF:-1,Zee cinema 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+#EXTINF:-1,Zee Bollywood 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
+#EXTINF:-1,Music India 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1,Zee tv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+
+#EXTINF:-1,SUN LIFE
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8LBi54SQc4GwcoDjI5-sIQ/ts
+
+#EXTINF:-1,*** INTER MOVIE ***
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0LwRzb0a57Zk19e8HtvDZg/ts
+
+#EXTINF:-1,Hits Movies
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyNzciCVxOC9znorhDgImy4/ts
+
+#EXTINF:-1,WB TV
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyc9hiPIREi_kr1mXwzyxNc/ts
+
+#EXTINF:-1,Thrill
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
+
+#EXTINF:-1,Rock Entertainment
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx1Civv5mi1tyUWWDVukcfw/ts
+
+#EXTINF:-1,AXN
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_2yhWOFc2Q3pEzSy5_-EWA/ts
+
+#EXTINF:-1,Kix
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
+
+#EXTINF:-1,Celestial Classic Movie
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_WuNa1YtP3ULw8BlAxII/ts
+
+#EXTINF:-1,HBO
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyG_8JdsZAgU4upYT0WZXH4/ts
+
+#EXTINF:-1,Cinemax
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5LmvFhDsDjByK908iJcLoI/ts
+
+#EXTINF:-1,SINEMA TV
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyRsgZuGR_-XzBqFwv9MoH8/ts
+
+#EXTINF:-1,HBO Europe
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz_CrflmVYrD5G0BcDWJE1Q/ts
+
+#EXTINF:-1,Filmbox Family
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6LpQiekz7GfZRORfe4aPmw/ts
+
+#EXTINF:-1,Classic Movies
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3AkptNnCwjldprfeZrIij4/ts
+
+#EXTINF:-1,Movies
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlwSQQtC43Qw5H0H_NL-SAPM/ts
+
+#EXTINF:-1,MNC TV
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-02vkPxtmtw2vT-SncNMqc/ts
+
+#EXTINF:-1,Movie Sphere
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_yWU2klkocUdTCWkJqs0/ts
+
+#EXTINF:-1,World Fashion
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3lzSZaOIL7XywdeW13nyMM/ts
+
+
+
+
+#EXTINF:-1,***Cartoon Kids***
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxoQgECaff55nItbnlnEtaE/ts
+
+#EXTINF:-1,Babyshark TV
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl37digAXKK63jRSEZ6VtaY0/ts
+
+#EXTINF:-1,Cbeebies
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9MZWPMEXNClTdI3AbxjFzE/ts
+
+#EXTINF:-1,Animax MM
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
+
+#EXTINF:-1,WB Cartoon
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1,Boomerang
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
+
+#EXTINF:-1,CartoonNetowrk
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+
+#EXTINF:-1,CN Cartoon
+https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
+
+#EXTINF:-1,Animax HD
+http://vthanhtivi.pw:5000/animax/index.m3u8
+
+#EXTINF:-1,Baby TV
+http://37.48.101.149:7017/play/a01y/index.m3u8
+
+#EXTINF:-1,BabyFirst
+http://191.97.49.196:8000/play/a00j/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://191.97.49.196:8000/play/a00m/index.m3u8
+
+
+
+#EXTINF:-1,***NETFILX MOVIE***
+http://89.187.177.137:8081/&FLIX/index.m3u8
+
+
+#EXTINF:-1,***Science***
+http://vthanhtivi.pw:5000/animal/index.m3u8
+
+
+#EXTINF:-1,Discovery
+http://38.96.178.201/live/Discovery/index.m3u8
+
+#EXTINF:-1,National Geographic
+http://146.59.19.1:80/5058/index.m3u8phic
+
+#EXTINF:-1,BBC Earth
+http://vthanhtivi.pw:5000/bbcearth/index.m3u8
+
+#EXTINF:-1,Discovery
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
+
+#EXTINF:-1,Love Nature
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
+
+#EXTINF:-1,Discovery Channel
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3PW6tyAlOu6yqRSk4l0Mf0/ts
+
+#EXTINF:-1,Discovery Asia
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
+
+#EXTINF:-1,Animal Planet
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlywiVWv93BI1KhbLgA2umoQ/ts
+
+#EXTINF:-1,History
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8ZXzuSVMaX6vdE2OJre7lA/ts
+
+#EXTINF:-1,Documentry 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlys5DTRyg6wmoWUu0jV0uRU/ts
+
+#EXTINF:-1,Adventure 4K
+http://150.95.25.221:8000/Adventure%204K?u=QqIIlllWqdhlknuof:p=15310546456189
+
+
+
+#EXTINF:-1,***Myanmar Movie***
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1,TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,GOLDENLAND
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1,MWDVARIETY
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1,CLIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1,MWD HD SCHOOL
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1,Series 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
+
+#EXTINF:-1,Series 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
+
+#EXTINF:-1,Movies 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
+
+#EXTINF:-1,Movies 4
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
+
+#EXTINF:-1,Movies 5
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
+
+#EXTINF:-1,Chinese Drama
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7itaYq8FGIj0DHHQChdymM/ts
+
+#EXTINF:-1,Myanmar Speaker Movie
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/ts
+
+#EXTINF:-1,MMSUBMOVIES",TheRoundup
+http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ThorGodofThunder2022
+http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",DoctorStrange
+http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Interceptor
+http://www.zegomovie.com/Videos/Interceptor/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Major2022
+http://www.zegomovie.com/Videos/Major/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Jurassic World2022
+http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BlowBlack2022
+http://www.zegomovie.com/Videos/Blowback/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",IronCross TheRoadNormandy2022
+http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Beast2022
+http://www.zegomovie.com/Videos/Beast2022/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",KGFChapter2
+http://www.zegomovie.com/Videos/KGFChapter2/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",9Bullets
+http://www.zegomovie.com/Videos/9Bullets/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Ghani2022
+http://www.zegomovie.com/Videos/Ghani/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheVault2021
+http://www.zegomovie.com/Videos/TheVault/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheLostCity
+http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Uncharted
+http://www.zegomovie.com/Videos/Uncharted/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",OhMyDog
+http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",EtharkkumThunindhavan
+http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",SuperMachi
+http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Morbius
+http://www.zegomovie.com/Videos/Morbius/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",RRR
+http://www.zegomovie.com/Videos/RRR/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Restless
+http://www.zegomovie.com/Videos/Restless/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",AnotherMe
+http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",AManCalledHero
+http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",GasolineAlley
+http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ProjectGemini
+http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Vesper2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Hunt2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BulletTrain2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Poikkalkuthirai
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",PonManickavel 
+http://www.zegomovie.com/Videos/PonManickavel/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ArmyofThieves2021
+http://www.zegomovie.com/Videos/ArmyofThieves/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",QueensReturn2021
+http://www.zegomovie.com/Videos/QueensReturn/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Rudra Thandavam2021
+http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheEast2021
+http://www.zegomovie.com/Videos/TheEast/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",SpiderManNoWayHome2021
+http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",HomeSweetHome2021
+http://www.zegomovie.com/Videos/HomeSweetHome/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",NightRaiders2021
+http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",RedNotice2021
+http://www.zegomovie.com/Videos/RedNotice/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",No Time to Die 2021
+http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Venom2 
+http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",RgingFire2021
+http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Flight2021
+http://www.zegomovie.com:80/Videos/Flight/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ShowMetheGhost
+http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheStronghold2021
+http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",FREE GUY 2021
+http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BellBottom2021
+http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BreakThrough2021
+http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",The Medium2021
+http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Kaadan2021
+http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",SINK HOLE 2021
+http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheCardCounter2021
+http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",NIGHT BOOK2021
+http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",PawPatrol2021
+http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",The Protege2021
+http://www.zegomovie.com/Videos/TheProtege/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",The Rebal of PT218
+http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Sherni 2021
+http://www.zegomovie.com/Videos/Sherni/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BhootPoolice2021
+http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TuckJagadish2021
+http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Kate2022
+http://www.zegomovie.com/Videos/Kate/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Pele2021
+http://www.zegomovie.com/Videos/Pele/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES2
+http://www.zegomovie.com/Videos/HereandThere/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES1
+http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
+
+#EXTINF:-1,MMSUB_MissionRescue
+http://www.zegomovie.com/Videos/MissionRescue72/index.m3u8
+
+#EXTINF:-1,MMSUB_The Oder
+http://www.zegomovie.com/Videos/TheOrder01/index.m3u8
+
+#EXTINF:-1,MMSUB_Dhoomam23
+http://www.zegomovie.com/Videos/Dhoomam23/index.m3u8
+
+#EXTINF:-1,MMSUB_XTremeRiders23
+http://www.zegomovie.com/Videos/XTremeRiders23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheOldOak
+http://www.zegomovie.com/Videos/TheOldOak23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheAbode
+http://www.zegomovie.com/Videos/TheAbode23/index.m3u8
+
+#EXTINF:-1,MMSUB_FightsBreakSphere
+http://www.zegomovie.com/Videos/FightsBreakSphere23/index.m3u8
+
+#EXTINF:-1,MMSUB_InTheLand
+http://www.zegomovie.com/Videos/InTheLandOfSaintsAndSinners23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheSquad23
+http://www.zegomovie.com/Videos/TheSquad23/index.m3u8
+
+#EXTINF:-1,MMSUB_CatPerson23
+http://www.zegomovie.com/Videos/CatPerson23/index.m3u8
+
+#EXTINF:-1,MMSUB_Inkheart
+http://www.zegomovie.com/Videos/Inkheart/index.m3u8
+
+#EXTINF:-1,MMSUB_THEWILD23
+http://www.zegomovie.com/Videos/THEWILD23/index.m3u8
+
+#EXTINF:-1,MMSUB_Transporter3
+http://www.zegomovie.com/Videos/Transporter3/index.m3u8
+
+#EXTINF:-1,MMSUB_BlackDemon
+http://www.zegomovie.com/Videos/The%20Black%20Demon/index.m3u8
+
+#EXTINF:-1,MMSUB_WORLD WARZ
+http://www.zegomovie.com/Videos/WORLDWARZ/index.m3u8
+
+#EXTINF:-1,MMSUB_WesternFront
+http://www.zegomovie.com/Videos/AllQuietontheWesternFront/index.m3u8
+
+#EXTINF:-1,MMSUB_Lost Flower
+http://www.zegomovie.com/Videos/LostFlowerEoWoodong/index.m3u8
+
+#EXTINF:-1,MMSUB_Moscow Mission
+http://www.zegomovie.com/Videos/MoscowMission23/index.m3u8
+
+#EXTINF:-1,MMSUB_Princess Sakura
+http://www.zegomovie.com/Videos/PrincessSakuraForbiddenPleasures/index.m3u8
+
+#EXTINF:-1,MMSUB_Spark Life
+http://www.zegomovie.com/Videos/SparkLIFE23/index.m3u8
+
+#EXTINF:-1,MMSUB_Bad Boy
+http://www.zegomovie.com/Videos/BadBoysII03/index.m3u8
+
+#EXTINF:-1,MMSUB_The Mist
+http://www.zegomovie.com/Videos/TheMist/index.m3u8
+
+#EXTINF:-1,MMSUB_Fallen Angels
+http://www.zegomovie.com/Videos/fallenangels/index.m3u8
+
+#EXTINF:-1,MMSUB_Schumacher
+http://www.zegomovie.com/Videos/Schumacher21/index.m3u8
+
+#EXTINF:-1,MMSUB_Joy
+http://www.zegomovie.com/Videos/Joy/index.m3u8
+
+#EXTINF:-1,MMSUB_Operation Black
+http://www.zegomovie.com/Videos/OperationBlackOps23/index.m3u8
+#EXTINF:-1,MMSUB_Magiske
+http://www.zegomovie.com/Videos/JulemandensDatter3DenMagiskeTidsmaskine22/index.m3u8
+
+#EXTINF:-1,MMSUB_TayloSwift
+http://www.zegomovie.com/Videos/TayloSwiftTheErasTour23/index.m3u8
+
+#EXTINF:-1,MMSUB_WolfGardeb
+http://www.zegomovie.com/Videos/WolfGarden/index.m3u8
+
+#EXTINF:-1,MMSUB_Super Cop
+http://www.zegomovie.com/Videos/Supercop293/index.m3u8
+
+#EXTINF:-1,MMSUB_The Grifters
+http://www.zegomovie.com/Videos/TheGrifters90/index.m3u8
+
+#EXTINF:-1,MMSUB_FreeLance
+http://www.zegomovie.com/Videos/Freelance23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheSniper
+http://www.zegomovie.com/Videos/TheSniper23/index.m3u8
+
+#EXTINF:-1,MMSUB_Squealer
+http://www.zegomovie.com/Videos/Squealer23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheSalvation
+http://www.zegomovie.com/Videos/TheSalvation14/index.m3u8
+
+#EXTINF:-1,MMSUB_OKkashanam
+http://www.zegomovie.com/Videos/OkkaKshanam17/index.m3u8
+
+#EXTINF:-1,MMSUB_BraveCitizen
+http://www.zegomovie.com/Videos/BraveCitizen23/index.m3u8
+
+#EXTINF:-1,MMSUB_BlackNoise
+http://www.zegomovie.com/Videos/BlackNoise23/index.m3u8
+
+#EXTINF:-1,MMSUB_Juan of The11
+http://www.zegomovie.com/Videos/JuanOfThe11/index.m3u8
+
+#EXTINF:-1,MMSUB_TheProtector
+http://www.zegomovie.com/Videos/TheProtector85/index.m3u8
+
+#EXTINF:-1,MMSUB_Gost
+http://www.zegomovie.com/Videos/Ghost23/index.m3u8
+
+#EXTINF:-1,MMSUB_TigerNageswar Rao
+http://www.zegomovie.com/Videos/TigerNageswaraRao23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheCorruptor
+http://www.zegomovie.com/Videos/TheCorruptor99/index.m3u8
+
+#EXTINF:-1,MMSUB_KnuckleGirl
+http://www.zegomovie.com/Videos/KnuckleGirl23/index.m3u8
+
+#EXTINF:-1,MMSUB_ControlZeta
+http://www.zegomovie.com/Videos/ControlZeta23/index.m3u8
+
+#EXTINF:-1,MMSUB_SkyLine
+http://www.zegomovie.com/Videos/Skyline10/index.m3u8
